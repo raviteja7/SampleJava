@@ -10,6 +10,7 @@ class IvarList {
     technologies.add("DevOps");
     technologies.add("CloudComputing");
     technologies.add("Data Mining");
+    technologies.add("AI");
     System.out.println("ArrayList: " + technologies);
   }
 }
